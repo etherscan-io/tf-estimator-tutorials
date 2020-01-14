@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kryptoxchangekloud",
+  "private_key_id": "b6f6eb484a4254447190df9d723d7e39f383dfe4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2Ew8w1v2TXVSb\npzPr3nsgLQ7eN4ajKstsBkK4rw4iMSCrURFGcd9HFAmOp3QfqZu+FE4iMos+aBQA\nX1KfQbTFS0j/IiqiOI0YGR8z+CIjeOycbQTsGktaNjDuj95pBJFuIhu+AFDmhDeU\noA1JTE2DF8SAr6/dLlxiE4fW7wNs/RHZ/bo7yhos2r65XJSPgvIDGKTp/Mhou59c\nSZwk4UTMZO0zkS2oi2AT274rvIwnwUP1okfBaLhKjoDpa3jq1WNYGrhEh+CLq/eg\nBi1/tok+G1wDCtD+iLyDWo241tCxsrKjMFopnqr/eOIUv1JXjEKnqspywzuljRvm\nlfMJmIp1AgMBAAECggEAB02NvG3DJK1c/r6ezIUoocps4D47PkGHK0FiXQ9YcnKk\nrCUc8PBm/kOFe/KngRBH2OtDlFzmojgrz+AC67Rc+yo2i//jfzeOy+VQumrnePjE\nCiTX9QhmTACvHG0qL0LUT9CPwE05nCVi0qlLdHcvsg8P/gFjUmx7nstzFWHnh0WF\n+P0uq4r6DA4YxIzm7InEMrpDSAHAdQpYPhOETTW5rKphWCTDabF2luqvlQgP/wUa\nmGih21VDaZFai6qZALXgI1Spn6s695waMsV7a5k9KOc68osU+KsKgOM7NC3o5sBM\nDMVLd+XXijLmhmYb5sf3V5bq1rE2x6XWQ6QXis8wOQKBgQDg7DRb/30I8ODu+pQH\nXLD2HIXZ5nYcre835gHuLTvE+ulMr6ELHhmyROPW3SF4GS/ctCpwWREoqvf05ZQd\nQu24JbBkwd/tM/smIyska+JPv2BEiiHAb+j0NhNRWhO4mP7EuKi/ZnU43Wyxef63\n+BknSEpE+5CZ49yGsx5GLQ6l8wKBgQDPO0J8nWYJ3LdxWI7y/aTrS/EQQz81Op97\nF+b4Gyhuo9XOoEzC7SzECnILTZoBH4lCntdBbwzTEIxXtz9/bp7OEvp/PNfeSjZC\nHNzFD3rQTWok/7E2G7STAVd1TVGQiIRkGxe3FVwDLADSh/3+NL3jg+eWxhOmJwr3\nnRDpzaof9wKBgQC2z+VCvSbQZJA+TRaR4UnHz6kPUVzAtLKReXYqM0O4N8P1224G\njkGOfqW81uDEL5ySQzGXPR1QM53zw8GeAu8aVC/JxTaPIkfIWJ9RLAq2jLLfInKK\naasrCuSqo48R4/B2ziwB3XH7dSVKHwDkYFd5cS1EYj/GhMiSBvXdTfPw9wKBgQC8\nfw6vAwy5k8ZYl1EPvZ+xV1ZikIiCBlziPo+cxjc0zFnCpRSticbaWxX5KhEXTHQx\n4QGzRyvHIJpHfyuG4jwY/jJUYieIzsAjytUVeksgBgqytNGggfrybJn83OOAMG0c\nEXi00/zp9bCZz5E9FQRUWrrg7jMZQxI6wOeNg8FnaQKBgBBlvVBQSWWfZj3ByVkq\n8nvJY6qrHggOtPX9JeA6FH41WnJYPOSqSOWC5p4QHbjSmm5AsR99Py4E1PjY8dpS\nuwYeJ3iPU2z6IA8C3st5sit1KACe1gHU72benUyjV/tn4zHXp18HWW53RemW25fn\nuiAfIENXtUaO9AbOlt7oVUH7\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-q699r@kryptoxchangekloud.iam.gserviceaccount.com",
+  "client_id": "118323293173828411916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-q699r%40kryptoxchangekloud.iam.gserviceaccount.com"
+}
